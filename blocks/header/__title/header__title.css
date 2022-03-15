@@ -1,0 +1,6 @@
+.header__title{
+  margin: auto 0 auto 64px;
+  flex-wrap: wrap;
+  align-content: center;
+  z-index: 3;
+}
