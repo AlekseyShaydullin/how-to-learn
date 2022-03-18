@@ -1,3 +1,15 @@
 .footer__column-link {
-  margin: 20px 0 16px;
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+}
+
+.footer__column-link {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.footer__column-link:nth-of-type(3n) {
+  margin: 0;
 }
