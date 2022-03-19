@@ -1,7 +1,6 @@
 .kaufman__triangle {
-  display: flex;
-  flex-wrap: wrap;
   position: absolute;
   top: 0;
-  right: 0;
+  right: -210px;
+  z-index: 1;
 }
