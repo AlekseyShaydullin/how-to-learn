@@ -5,4 +5,5 @@
   text-align: left;
   flex-wrap: wrap;
   justify-content: space-between;
+  list-style-type: none;
 }
